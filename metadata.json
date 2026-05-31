@@ -1,0 +1,8 @@
+{
+  "name": "The Only Intentional Search Browser",
+  "description": "Minimalist, ad-free end-to-end encrypted email provider client with integrated intent-driven search, offline access queueing, and multi-device synchronization simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
